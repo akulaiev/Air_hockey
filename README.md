@@ -3,8 +3,10 @@ A 2D game of air hockey against simple AI. Used SDL2 for graphics and audio, alo
 
 <p align="center">
 <img src="https://github.com/akulaiev/Air_hockey/blob/master/demo.png" width="350">
+</p>
 
-Game is on till 10 goals striked.
+<p align="center">
+# Game is on till 10 goals striked.
 </p>
 
 # Running
