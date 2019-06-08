@@ -13,7 +13,7 @@ Game is on till 10 goals striked.
 To compile the executable, use Make. Don't worry, all libs are linked statically.
 Then run it with one of the following commands:
 ```
-Usage: ./RT src/scenes/scene_name skybox_number(1-5)
+Usage: ./air_hockey
 Usage: make all exe
 ```
 
